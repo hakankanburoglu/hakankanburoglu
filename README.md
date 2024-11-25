@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Hakan Kanburoğlu 👋
+
+I am interested in software development.
 
 <!--
 **hakankanburoglu/hakankanburoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakankanburoglu&amp;theme=prussian&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="hakankanburoglu&#39;s Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakankanburoglu&amp;theme=prussian&amp;hide_rank=true&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="hakankanburoglu&#39;s Stats" height="150">
+</div>
